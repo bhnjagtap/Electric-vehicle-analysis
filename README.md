@@ -25,8 +25,8 @@ To use this dashboard:
 
 ## Screenshots
 
-![Dashboard Screenshot](Screenshot (1577).png)
-*Screenshot: Electric Vehicle Analysis Dashboard*
+![Electric Vehicle Analysis Dashboard](screenshots/electric_vehicle.png)
+
 
 ## Contributing
 
